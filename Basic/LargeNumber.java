@@ -1,4 +1,5 @@
 package BasicMethods;
+//Q Enter two numbers and find out which of the number is greater from both
 
 import java.util.Scanner;
 
@@ -16,7 +17,7 @@ class LargeNum{
         if(num1==num2){
             System.out.println("Both have equal values");
         }
-        else    if(num1>num2){
+        else if(num1>num2){
             System.out.println("Number 1 is greater than number 2");
         }
         else {
