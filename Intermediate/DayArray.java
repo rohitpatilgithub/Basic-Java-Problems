@@ -6,7 +6,7 @@ class DayCount{
     Scanner sc = new Scanner(System.in);
     String[] day = new String[7];
     int num;
-    void daysare(){
+    void daysare(){ //Assigning each array element a day
         day[0] = "Monday";
         day[1] = "Tuesday";
         day[2] = "Wednesday";
@@ -15,7 +15,7 @@ class DayCount{
         day[5] = "Saturday";
         day[6] = "Sunday";
     }
-    void findday(){
+    void findday(){ //Method to find the day
         System.out.print("Enter your day : ");
         num = sc.nextInt();
         if(num<=7&&num>0){
