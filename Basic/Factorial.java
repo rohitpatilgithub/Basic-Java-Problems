@@ -1,5 +1,5 @@
 package BasicMethods;
-
+//Find the factorial of given integer and print the factorials of it.
 import java.util.Scanner;
 
 public class Factorial {
