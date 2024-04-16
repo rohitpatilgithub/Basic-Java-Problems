@@ -1,5 +1,5 @@
 package BasicMethods;
-
+//Input number and power, find the final answer according to power.
 import java.util.Scanner;
 
 public class Power {
