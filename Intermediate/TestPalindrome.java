@@ -1,5 +1,7 @@
 package BasicMethods.Methods;
 
+//Find whether number is palindrome or not.
+
 import java.util.Scanner;
 
 class Palindrome{
