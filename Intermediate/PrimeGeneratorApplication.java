@@ -1,5 +1,3 @@
-package ReloadThat;
-
 import java.util.Scanner;
 
 class PrimeCalculator {
